@@ -67,6 +67,7 @@ A government agency addressing climate change leveraged cross-functional experti
 
 Case Study 3: Driving Social Innovation
 A nonprofit focused on education used the Futurenaut Canvas to engage with a network of experts and develop innovative curricular programs, following practices outlined by the Association of Professional Futurenauts.
+
 Conclusion: Embrace the Power of Futures Thinking
 By mastering the Futurenaut Canvas, you gain the ability to navigate uncertainty, drive innovation, and shape the future. Whether for individual growth or organizational impact, this framework empowers you to become a skilled and influential Futurenaut. Embrace the power of futures thinking, and join a community of trailblazers transforming the world, one foresight-driven insight at a time.
 
