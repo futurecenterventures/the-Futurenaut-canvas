@@ -4,6 +4,7 @@ In today's rapidly evolving world, the ability to anticipate and navigate the fu
 By providing a structured approach to futures thinking, the Futurenaut Canvas empowers you to uncover emerging trends, imagine potential scenarios, and translate insights into innovative strategies. This framework aligns with the foresight process described by Voros (2003), which advocates for a structured, multi-step approach to exploring future possibilities. Whether you're an executive, a policymaker, an entrepreneur, or an aspiring Futurenaut, this guide will equip you with the tools and methodologies to thrive in the face of uncertainty.
 
 Who is the Futurenaut Canvas for?
+
 The Futurenaut Canvas is a versatile tool that can benefit a wide range of individuals and organizations:
 Corporate Leaders: Gain a competitive edge by anticipating market shifts, identifying new opportunities, and mitigating risks. Schwartz’s (1991) The Art of the Long View provides an excellent foundation for understanding how scenario planning can benefit corporate strategy.
 Government Officials: Inform policy decisions, address societal challenges, and ensure your constituents are prepared for the future. For instance, OECD Strategic Foresight Unit publications offer practical insights for integrating foresight into public policy.
@@ -13,7 +14,9 @@ Entrepreneurs & Innovators: Harness the power of futures thinking to disrupt ind
 General Public: Develop a deeper understanding of the forces shaping our world and become an active participant in shaping the future.
 
 What is the Futurenaut Canvas?
+
 The Futurenaut Canvas is a comprehensive framework that guides you through the key components of futures thinking and foresight. It is divided into 12 interconnected elements:
+
 1. Foresight Capabilities: As outlined by Schwartz (1991), these are the skills and methods required to anticipate, analyze, and explore the future.
 2. Knowledge Foundations: Toffler's (1970) concept of "future shock" and Kurzweil's (2005) exploration of exponential growth are essential readings for building an interdisciplinary foundation in futures thinking.
 3. Research Channels: Accessing diverse sources such as academic databases, real-time social listening tools like Google Trends, and scientific journals is crucial for a broad perspective on trends and patterns.
